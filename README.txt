@@ -11067,41 +11067,6 @@ fe80::1%lo0	localhost
 #taboola
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
-#Taobao
-127.0.0.1 www.tao123.com
-127.0.0.1 ai.m.taobao.com
-127.0.0.1 ai.taobao.com
-127.0.0.1 f.ai.taobao.com
-127.0.0.1 err.taobao.com
-127.0.0.1 r.m.taobao.com
-127.0.0.1 re.m.taobao.com
-127.0.0.1 re.taobao.com
-127.0.0.1 show.re.taobao.com
-127.0.0.1 admin.uz.taobao.com
-127.0.0.1 qingbaozhan.uz.taobao.com
-127.0.0.1 j.uz.taobao.com
-127.0.0.1 zhentan.uz.taobao.com
-127.0.0.1 g.click.taobao.com
-127.0.0.1 s8.m.taobao.com
-127.0.0.1 s8.taobao.com
-127.0.0.1 search8.taobao.com
-127.0.0.1 athena.simba.taobao.com
-127.0.0.1 log.m.taobao.com
-127.0.0.1 m.simba.taobao.com
-127.0.0.1 simba.m.taobao.com
-127.0.0.1 textlink.simba.taobao.com
-127.0.0.1 tmatch.simba.taobao.com
-127.0.0.1 tns.simba.taobao.com
-127.0.0.1 dailyupdate.wangwang.taobao.com
-127.0.0.1 files.dailyupdate.wangwang.taobao.com
-127.0.0.1 jc.wangwang.taobao.com
-127.0.0.1 adash.m.taobao.com
-127.0.0.1 count.taobao.com
-127.0.0.1 pcookie.taobao.com
-127.0.0.1 pindao.huoban.taobao.com
-127.0.0.1 rj.m.taobao.com
-127.0.0.1 shi.taobao.com
-127.0.0.1 w.m.taobao.com
 #Tapjoy
 127.0.0.1 tapjoy.com
 127.0.0.1 tapjoyads.com
